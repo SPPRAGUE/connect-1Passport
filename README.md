@@ -20,3 +20,4 @@ Check out our [developer documentation](https://developer.1password.com/docs/con
 - Join the [Developer Slack workspace](https://developer.1password.com/joinslack)
 - Subscribe to the [Developer Newsletter](https://1password.com/dev-subscribe/)
 
+*By accessing or using 1Password Developer Tools, you agree to the [API and SDK Terms of Service](https://1password.com/legal/api-sdk-terms-of-service).*
