@@ -12,6 +12,9 @@
 ---
 
 With 1Password Connect, you can securely access your 1Password items and vaults in your company's apps and cloud infrastructure using a private REST API or the 1Password CLI.
+
+*Use of the 1Password APIs and services accessed through this project is governed by the [1Password API Terms of Service](https://1password.com/legal/api-sdk-terms-of-service).*
+
 ## ✨ Get started
 Check out our [developer documentation](https://developer.1password.com/docs/connect/get-started) to get started. Or see our deployment examples [here](https://github.com/1Password/connect/tree/main/examples).
 ## 💙 Community & Support
